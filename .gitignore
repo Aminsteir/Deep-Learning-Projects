@@ -1,0 +1,10 @@
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.flv
+data/
+images/
+outputs/
+videos/
